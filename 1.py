@@ -1,0 +1,1 @@
+print('Salom\n\tHammaga nima gapla\n\t\tYangi Yil bilan\n\tBayramni yaxshi otqazingla\n Xayir')
